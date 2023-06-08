@@ -3,10 +3,3 @@ bbbbbbbbbbbbbbbbbbbb
 aaaaaaaaa
 aaaaaaaaaaaaaaaaaa
 
-cccccccccccccc
-ccccccccccccccccccc
-dddddddddddddddddd
-ddddddddddddddd
-
-eeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeee
